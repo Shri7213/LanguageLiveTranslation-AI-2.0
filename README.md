@@ -1,4 +1,4 @@
-# 🌐 LinguaLive AI
+# 🌐 LanguageLiveTranslation-AI
 ### Real-Time Speech Translation and Live Captioning System
 
 **Breaking language barriers through AI-powered speech recognition and translation.**
